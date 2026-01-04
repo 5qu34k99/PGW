@@ -166,7 +166,7 @@ p {
 	width: 100%;
 	height: auto;
 	aspect-ratio: 1 / 1;
-	padding-top: 12px, 8px, 12px, 8px;
+	padding: 12px, 8px, 12px, 8px;
 }
 
 #mapsContainer figure img {

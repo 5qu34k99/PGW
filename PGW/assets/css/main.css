@@ -178,6 +178,8 @@ p {
 
 figcaption {
 	font-family: 'Roboto Mono', monospace;
+	font-size: 80%;
+	font-weight: 400;
 	padding: 5px;
 }
 

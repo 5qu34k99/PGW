@@ -149,10 +149,9 @@ p {
 	font-weight: 400;
 }
 
-p a{
+#maps p a{
 	text-decoration:underline;
 }
-
 
 #mapsContainer{
 	padding-top: 30px;
